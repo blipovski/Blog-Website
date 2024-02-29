@@ -1,6 +1,6 @@
 baseURL: https://lipovski.com
 title: BL Blog
-theme: github.com/razonyang/hugo-theme-bootstrap
+module: github.com/razonyang/hugo-theme-bootstrap
 copyright: 'Copyright © {year} Benjamin Lipovski. All Rights Reserved.'
 defaultContentLanguage: en
 # hasCJKLanguage: true # Uncomment it if your content contains Chinese/Japanese/Korean Languages.
