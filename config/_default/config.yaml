@@ -1,4 +1,4 @@
-baseURL: https://lipovski.com
+baseURL: https://blog.lipovski.ca
 title: BL Blog
 module: github.com/razonyang/hugo-theme-bootstrap
 copyright: 'Copyright © {year} Benjamin Lipovski. All Rights Reserved.'
